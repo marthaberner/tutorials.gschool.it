@@ -11,6 +11,8 @@
 
 * [Dynamic Web Content](http://en.wikipedia.org/wiki/Dynamic_web_page){:target="_blank"} via [Erb](http://en.wikipedia.org/wiki/ERuby){:target="_blank"}
 
+99 Bottles of beer on the wall. 99 bottles of beer. take one down, pass it around. 99 bottles of beer on the wall.
+
 This tutorial will lead you through the steps to dynamically generate content on a web
 page using embedded Ruby, also know as erb. Dynamic content allows us to generate content for
 a web page from things like databases to customize the user experience. 
